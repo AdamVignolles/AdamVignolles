@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdamVignolles
 - 👀 I’m interested in development , precisely in python
-- 🌱 I’m currently learning python java c++
-- 📫 How to reach me discord : ADAM#9867
+- 🌱 I’m currently learning python js html c++
+- 📫 How to reach me discord : adamv77
 
 <!---
 AdamVignolles/AdamVignolles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
